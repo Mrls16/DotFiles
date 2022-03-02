@@ -1,8 +1,0 @@
-WoeUSB v3.3.1
-==============================
-[0;32mMounting source filesystem...
-(B[m[0;31mmount_source_filesystem: Error: Unable to create "/media/woeusb_source_1646228776_39549" mountpoint directory
-(B[m[0;31mmount_source_filesystem: Error: Unable to mount source media
-(B[m[0;31mError: Unable to mount source filesystem
-(B[m[0;32mYou may now safely detach the target device
-(B[m
